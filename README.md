@@ -8,6 +8,8 @@ significance-tested verdict on the redesign, segmentation that reveals
 *where* it wins and loses, and an attribution comparison — all ending in a
 ship / don't-ship recommendation.
 
+**Video walkthrough:** [60-second demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7514896889692160000)
+
 ## Why, how, what
 
 **Why** — Redesigns usually ship on opinion and HiPPO approval. Without a
