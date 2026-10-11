@@ -1,0 +1,19 @@
+Shipping a redesign because it "feels better" is quietly costing you money.
+
+I A/B tested a new checkout flow on 20,000 users, 50/50 split.
+
+Headline result: purchases went 11.98% to 14.50%. A lift of 2.52 points, 95% CI [+1.58, +3.45], p-value near zero.
+
+Verdict: ship it. Right?
+
+Not so fast. I segmented by device and the story split in two. Desktop gained 7.00 points. Mobile was flat and wasn't statistically significant.
+
+So here's my real recommendation: ship to desktop, hold mobile back for its own diagnosis. The funnel backed it up. The lift landed exactly between checkout-started and payment-done (+8.06pp), right where a checkout redesign should bite.
+
+One more thing the data gave me: first-touch attribution rewards discovery (social), last-touch rewards closing (paid). Same funnel, two different stories about what "worked."
+
+The lesson I keep relearning: the overall number's never the whole story. Segment before you conclude.
+
+When was the last time a headline metric misled you?
+
+#DataAnalytics #ABTesting #Statistics

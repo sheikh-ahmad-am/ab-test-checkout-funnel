@@ -1,0 +1,7 @@
+We redesigned the checkout flow. But did it actually work? I ran the full analysis on twenty thousand users, half on the old checkout, half on the new one.
+
+The new flow lifted purchases from eleven point nine eight percent to fourteen point five percent: a gain of two point five two percentage points, with a ninety-five percent confidence interval from plus one point five eight to plus three point four five, and a p-value near zero. Verdict: ship it.
+
+But segmentation told a sharper story. Desktop gained seven percentage points; mobile was flat and not significant. So the real recommendation: ship to desktop, hold mobile back for its own diagnosis. The funnel confirmed the lift landed exactly where a checkout redesign should: between checkout started and payment done, up eight point zero six points.
+
+I also compared first-touch versus last-touch attribution: social wins discovery, paid wins closing. Eight interview terms, one evidence-backed decision.

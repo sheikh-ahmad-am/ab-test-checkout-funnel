@@ -1,0 +1,11 @@
+"Did the redesign work?" is a statistics question, not an opinion.
+
+I A/B tested a new checkout flow on 20,000 users:
+- Purchases: 11.98% to 14.50%. Lift +2.52pp, 95% CI [+1.58, +3.45], p near zero. Verdict: SHIP.
+- But segmentation changed the call: desktop gained +7.00pp, mobile was flat and not significant. Ship desktop, hold mobile for its own diagnosis.
+- Funnel analysis: the lift landed exactly where a checkout redesign should, checkout to payment up 8.06pp.
+- Attribution bonus: first-touch rewards discovery (social), last-touch rewards closing (paid).
+
+A/B testing, statistical significance, confidence intervals, funnel analysis, segmentation, attribution, EDA, MoM. One project, one evidence-backed decision.
+
+#DataAnalytics #ABTesting #Statistics #Python #BusinessAnalyst
